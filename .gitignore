@@ -5,3 +5,8 @@ cache.db
 logs/
 *.log
 
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
