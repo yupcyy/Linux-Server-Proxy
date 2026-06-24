@@ -1,0 +1,7 @@
+cache.db
+*.db
+*.metadb
+*.mmdb
+logs/
+*.log
+
